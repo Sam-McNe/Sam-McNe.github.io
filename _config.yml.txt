@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Sam McNe - Applied Statistics Portfolio
-description: A collection of statistical learning, experimental design, and Bayesian statistics projects.
+description: A collection of statistical learning, experimental design, and Bayesian statistics projects
+logo: assets/images/logo.png
+show_downloads: false
+
+# Social media links (optional)
+social:
+  github: Sam-McNe
+  linkedin: your-linkedin-username
+  email: your.email@example.com
